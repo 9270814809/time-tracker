@@ -22,6 +22,8 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+         <!-- POM file code changes to master branch from a new branch - team member1>
+         
     <modules>
         <module>core</module>
         <module>web</module>
